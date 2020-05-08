@@ -15,6 +15,13 @@ Implement the next algorithms:
 * Worst fit
 * Next fit
 
+## Compiling and running
+
+```
+javac *.java
+java Main < test.txt
+```
+
 ## Input
 
 5
